@@ -42,7 +42,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [pouria](https://github.com/pouriahashtroudi)
 - [mahdimosavi](https://github.com/MahdyMusave/gittutorial.git)
 - [Pourya Kamyarfard ❤️](https://github.com/wwindux)
-- -[Mohammad Naderi 01] (https://github.com/MrRobotIsHere)
+- `[Mohammad Naderi ] (https://github.com/MrRobotIsHere)`
 - - [amir rahimi :) ](https://github.com/amirrahimii)
 - [shahin Davoodi](https://github.com/Shahindavoodicom)
 - [pooulad(Jadi finally saw me😎:alien:)](https://github.com/pooulad) 
